@@ -4,3 +4,5 @@ adding content to file2
 
 
 Another marketing section added to file one
+
+learinng stashing
